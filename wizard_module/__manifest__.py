@@ -26,6 +26,7 @@
         'security/security.xml',
         'security/ir.model.access.csv',
         'views/menuitems.xml',
+        'wizard/wizard_views.xml',
     ],
 
 }
